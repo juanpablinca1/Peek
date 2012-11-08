@@ -1,0 +1,12 @@
+TechnoCom sera una combinacion entre una red social y una base de datos 
+actualizada. los usuarios de la red social tendran un perfil, en donde pueden
+compartir productos, reseñas, comentarios, videos, y hasta vender productos que
+estan en la base; pueden contactarse con las empresas y saber los datos de la 
+empresa, sus productos, sus actualizaciones mas recientes, entre otros datos que
+son utiles para el usuario. algunos de los detalles son: 
+1. en el prefil del usuario estaran las compañias de interes, asi como los 
+productos que gustan y disgustan.
+2. la base sera claramente interactiva con el usuario, teniendo por ejemplo
+botones de like.
+3. la base de datos de las compañias tendra por ejemplo ubicacion de donde
+comprar productos, donde son mas baratos (segun los usuarios).
