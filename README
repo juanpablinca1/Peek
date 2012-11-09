@@ -1,12 +1,9 @@
-TechnoCom sera una combinacion entre una red social y una base de datos 
-actualizada. los usuarios de la red social tendran un perfil, en donde pueden
-compartir productos, reseñas, comentarios, videos, y hasta vender productos que
-estan en la base; pueden contactarse con las empresas y saber los datos de la 
-empresa, sus productos, sus actualizaciones mas recientes, entre otros datos que
-son utiles para el usuario. algunos de los detalles son: 
-1. en el prefil del usuario estaran las compañias de interes, asi como los 
-productos que gustan y disgustan.
-2. la base sera claramente interactiva con el usuario, teniendo por ejemplo
-botones de like.
-3. la base de datos de las compañias tendra por ejemplo ubicacion de donde
-comprar productos, donde son mas baratos (segun los usuarios).
+Peek sera una aplicacion donde las personas puedan hacer reviews sobre productos.
+los usuarios podran hacer likes y comentarios sobre los reviews, e indicar si el producto 
+o la empresa mostrado en el review les gusta o no.
+detalles:
+1. el usuario tendre un perfil donde aparecera informacion general como productos que gustan.
+2. habra una suscripcion para que el usuario vea los reviews de otras personas y haga 
+comentarios sobre el, tambien likes a el otro usuario o a sus reviews. 
+3. los reviews son en video, y podran ser grabados instantaneamente, por ejemplo desde un smartphone directamente.
+
